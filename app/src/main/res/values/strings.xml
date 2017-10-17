@@ -28,4 +28,8 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_cuatroI">Cuatro Imágenes</string>
+    <string name="title_concentrese">Concéntrese</string>
+    <string name="title_topo">Aplasta al Topo</string>
+    <string name="title_activity_cuatro_imag">CuatroImagActivity</string>
 </resources>
